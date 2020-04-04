@@ -1,0 +1,28 @@
+{
+  "name": "back.proyect_react",
+  "version": "1.0.0",
+  "description": "back.proyect_react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon run index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evalladares-t/back.proyect_react.git"
+  },
+  "author": "Valladares Tavera Edward J. <evalladarestav@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evalladares-t/back.proyect_react/issues"
+  },
+  "homepage": "https://github.com/evalladares-t/back.proyect_react#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.0.0",
+    "sequelize": "^5.21.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
